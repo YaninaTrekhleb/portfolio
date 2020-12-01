@@ -2,20 +2,20 @@
   <div id="app" class="min-h-full">
     <Header />
     <Profile />
-    <Projects />
+    <Project />
   </div>
 </template>
 
 <script>
 import Profile from './components/Profile.vue'
-import Projects from './components/Projects.vue'
+import Project from './components/Project.vue'
 import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
     Profile,
-    Projects,
+    Project,
     Header
   }
 }
