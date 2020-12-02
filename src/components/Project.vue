@@ -1,10 +1,10 @@
 <template>
   <div id="project">
     <section>
-       <!-- <h3>List of projects</h3>
+       <h3>List of projects</h3>
        <div class="project-container">
-         <h3><a href="https://yaninatrekhleb.github.io/to-do-list-vue/">To Do List</a></h3>
-         <img src="../images/projects-img/to-do-list-vue.png" alt="" class="project-preview">
+         <h3><a href="">To Do List</a></h3>
+         <img src="" alt="" class="project-preview">
          <p class="project-date">
            Oct 2020 - Nov 2020
          </p>
@@ -25,7 +25,7 @@
             javascript
           </span>
          </div>
-       </div> -->
+       </div>
     </section>
   </div>
 </template>
