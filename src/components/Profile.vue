@@ -3,7 +3,7 @@
     id="profile" 
   >
     <section
-      class="flex flex-row justify-center items-center h-auto"
+      class="flex flex-row justify-center items-center h-auto w-auto"
     >
       <div class="avatar mr-3.5">
         <img 

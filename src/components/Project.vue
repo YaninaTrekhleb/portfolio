@@ -1,28 +1,19 @@
 <template>
   <div id="project">
     <section>
-       <h3>List of projects</h3>
-       <div class="project-container">
-         <h3><a href="">To Do List</a></h3>
-         <img src="" alt="" class="project-preview">
+      <div class="project-container">
+         <h3><a href="">{{ project.name }}</a></h3>
+         <img :src="project.img" alt="" class="project-preview">
          <p class="project-date">
-           Oct 2020 - Nov 2020
+           {{ project.date }}
          </p>
-         <div class="skills-tag">
+         <div 
+          v-for="tag in project.tags" :key="tag.name"
+          class="skills-tag">
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            vue.js
-          </span>
-          <span 
-            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
-          >
-            html/css
-          </span>
-          <span 
-            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
-          >
-            javascript
+            {{ tag.name }}
           </span>
          </div>
        </div>
@@ -38,7 +29,8 @@ export default {
     return {
 
     }
-  }
+  },
+  props: ['project'],
 }
 </script>
 

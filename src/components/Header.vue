@@ -1,14 +1,13 @@
 <template>
   <div id="header">
-    <header
-      class="flex flex-row justify-items-center justify-center justify-around"
-    >
-      <h3>About</h3>
-      <h3>Projects</h3>
+    <header class="fixed flex flex-row justify-center pt-4 top-0 left-0 w-full">
+      <nav class="flex w-full">
+        <router-link to="/" class="flex-1 hover:text-blue-50">About</router-link> 
+        <router-link to="/Projects" class="flex-1 hover:text-blue-50">Projects</router-link> 
+      </nav>
     </header>
   </div>
 </template>
-
 
 <script>
 export default {
@@ -22,5 +21,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>

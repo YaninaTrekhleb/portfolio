@@ -1,21 +1,16 @@
 <template>
-  <div id="app" class="min-h-full">
+  <div id="app" class="">
     <Header />
-    <Profile />
-    <Project />
+    <router-view /> 
   </div>
 </template>
 
 <script>
-import Profile from './components/Profile.vue'
-import Project from './components/Project.vue'
 import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
-    Profile,
-    Project,
     Header
   }
 }
