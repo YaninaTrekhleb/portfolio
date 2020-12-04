@@ -1,9 +1,9 @@
 <template>
   <div id="header">
-    <header class="fixed flex flex-row justify-center pt-4 top-0 left-0 w-full">
-      <nav class="flex w-full">
-        <router-link to="/" class="flex-1 hover:text-blue-50">About</router-link> 
-        <router-link to="/Projects" class="flex-1 hover:text-blue-50">Projects</router-link> 
+    <header class="fixed flex flex-row py-4 top-0 left-0 w-full bg-white bg-opacity-0.4">
+      <nav class="flex w-full text-base">
+        <router-link to="/" class="flex-1 hover:text-indigo-400">About</router-link> 
+        <router-link to="/Projects" class="flex-1 hover:text-indigo-400">Projects</router-link> 
       </nav>
     </header>
   </div>

@@ -26,7 +26,7 @@ export const projects = [
     name: 'Weather App Vue',
     url: 'https://yaninatrekhleb.github.io/weatherApp-vueJs/',
     img: require('../images/projects-img/weather-vue.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Aug 2020 - Aug 2020',
     tags: [
       { name: 'vue.js' },
       { name: 'javascript' },
@@ -38,7 +38,7 @@ export const projects = [
     name: 'Food Blog',
     url: 'https://yaninatrekhleb.github.io/food-blog-sass/',
     img: require('../images/projects-img/food-sass.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Jun 2020 - Jun 2020',
     tags: [
       { name: 'html/css' },
       { name: 'sass' },
@@ -49,7 +49,7 @@ export const projects = [
     name: 'To Do List React',
     url: 'https://yaninatrekhleb.github.io/to-do-list/',
     img: require('../images/projects-img/to-do-list-react.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Apr 2020 - May 2020',
     tags: [
       { name: 'react' },
       { name: 'html/css' },
@@ -60,7 +60,7 @@ export const projects = [
     name: 'Things to do on quarantine',
     url: 'https://yaninatrekhleb.github.io/quarantine-what-to-do/',
     img: require('../images/projects-img/quarantine-react.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Apr 2020 - Apr 2020',
     tags: [
       { name: 'react' },
       { name: 'javascript' },
@@ -71,7 +71,7 @@ export const projects = [
     name: 'Tip Calculator',
     url: 'https://yaninatrekhleb.github.io/tip-calculator/index.html',
     img: require('../images/projects-img/tip-calculator.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Oct 2019 - Nov 2019',
     tags: [
       { name: 'javascript' },
       { name: 'html/css' },
@@ -81,7 +81,7 @@ export const projects = [
     name: 'Restaurant Landing Page',
     url: 'https://yaninatrekhleb.github.io/restaurant-website/',
     img: require('../images/projects-img/restaurant-landing.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Sep 2019 - Sep 2019',
     tags: [
       { name: 'html/css' },
       { name: 'bootstrap' },
@@ -92,7 +92,7 @@ export const projects = [
     name: 'Succulent Gallery',
     url: 'https://yaninatrekhleb.github.io/succulent-gallery/',
     img: require('../images/projects-img/gallery-css.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Feb 2020 - Feb 2020',
     tags: [
       { name: 'html/css' },
       { name: 'bootstrap' },
@@ -102,7 +102,7 @@ export const projects = [
     name: 'Luhn algorithm - credit card validity checker',
     url: 'https://yaninatrekhleb.github.io/luhn-algorithm/index.html',
     img: require('../images/projects-img/luhn-algorithm.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Feb 2020 - Feb 2020',
     tags: [
       { name: 'javascript' },
       { name: 'algorithm' },
@@ -113,7 +113,7 @@ export const projects = [
     name: '10 000 days Birthday',
     url: 'https://yaninatrekhleb.github.io/tenThousandDays/index.html',
     img: require('../images/projects-img/ten-thousand-days.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Dec 2019 - Dec 2019',
     tags: [
       { name: 'javascript' },
       { name: 'html/css' },
@@ -123,7 +123,7 @@ export const projects = [
     name: 'Find a Pet Landing Page',
     url: 'https://yaninatrekhleb.github.io/adopt-a-pet/',
     img: require('../images/projects-img/adopt-a-pet.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Oct 2019 - Oct 2019',
     tags: [
       { name: 'html/css' },
       { name: 'bootstrap' },
@@ -134,7 +134,7 @@ export const projects = [
     name: 'Wedding Agency Landing Page',
     url: 'https://yaninatrekhleb.github.io/wedding-agency-landing-page/',
     img: require('../images/projects-img/wedding-agency.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Sep 2020 - Sep 2020',
     tags: [
       { name: 'html/css' },
       { name: 'bootstrap' },
@@ -145,7 +145,7 @@ export const projects = [
     name: 'Learn HTML and CSS from scratch. Practical Exercises',
     url: 'https://yaninatrekhleb.github.io/learn-html-css/',
     img: require('../images/projects-img/learn-html-css.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Sep 2019 - Sep 2019',
     tags: [
       { name: 'html/css' },
       { name: 'educational material' },
@@ -156,7 +156,7 @@ export const projects = [
     name: 'Sign Up Page Template',
     url: 'https://yaninatrekhleb.github.io/sign-up-page-template/',
     img: require('../images/projects-img/sign-up.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Jun 2019 - Jun 2019',
     tags: [
       { name: 'html/css' },
       { name: 'ui' },
@@ -166,7 +166,7 @@ export const projects = [
     name: 'Blog Landing Page',
     url: 'https://yaninatrekhleb.github.io/blogger-website-template/',
     img: require('../images/projects-img/blogger-website.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Mar 2018 - Mar 2018',
     tags: [
       { name: 'html/css' },
       { name: 'ui' },
@@ -177,7 +177,7 @@ export const projects = [
     name: 'Cooking blog',
     url: 'https://yaninatrekhleb.github.io/Yanina-s-cooking-blog/',
     img: require('../images/projects-img/cooking-css.png'),
-    date: 'Oct 2020 - Nov 2020',
+    date: 'Feb 2018 - Feb 2018',
     tags: [
       { name: 'html/css' },
       { name: 'landing page' },
