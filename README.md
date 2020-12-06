@@ -4,4 +4,4 @@
 
 [▶️ Launch Demo](https://yaninatrekhleb.github.io/portfolio/)
 
-![Demo](./images/demo-portfolio.gif)
+![Demo](src/images/demo-portfolio.gif)
