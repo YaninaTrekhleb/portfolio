@@ -14,8 +14,8 @@
 </template>
 
 <script>
-import {certificate} from '../database/certificates'
-import Certificates from './Certificate.vue'
+import {certificates} from '../database/certificates'
+import Certificate from './Certificate.vue'
 
 export default {
   name: 'Certificates',

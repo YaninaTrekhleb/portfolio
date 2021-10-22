@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Profile from './components/Profile.vue'
 import Projects from './components/Projects.vue'
+import Certificates from './components/Certificates.vue'
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ const routes = [
     path: '/Projects',
     name: 'Projects',
     component: Projects
+  },
+  {
+    path: '/Certificates',
+    name: 'Certificates',
+    component: Certificates
   },
 
 ]
