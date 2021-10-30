@@ -1,7 +1,7 @@
 export const certificates = [
   {
     name: 'Foundations: Data, Data, Everywhere',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Google-Data-Part1-Foundations-Data-Data-Everywhere.jpg',
     img: require('../images/certificates-img/Google-Data-Part1-Foundations-Data-Data-Everywhere.jpg'),
     date: 'Oct 2021 - Oct 2021',
     tags: [
@@ -11,7 +11,7 @@ export const certificates = [
   },
   {
     name: 'Introduction to Python',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Introduction_to_Python_datacamp.jpg',
     img: require('../images/certificates-img/Introduction_to_Python_datacamp.jpg'),
     date: 'Sep 2021 - Oct 2021',
     tags: [
@@ -20,7 +20,7 @@ export const certificates = [
   },
   {
     name: 'Google Tag Manager Fundamentals',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Google-Tag-Manager-Fundamentals-Course_Certificate.jpg',
     img: require('../images/certificates-img/Google-Tag-Manager-Fundamentals-Course_Certificate.jpg'),
     date: 'Mar 2021 - Mar 2021',
     tags: [
@@ -31,7 +31,7 @@ export const certificates = [
   },
   {
     name: 'Advanced Google Analytics',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Advanced-Google-Analytics-Course_Certificate.jpg',
     img: require('../images/certificates-img/Advanced-Google-Analytics-Course_Certificate.jpg'),
     date: 'Mar 2021 - Mar 2021',
     tags: [
@@ -41,7 +41,7 @@ export const certificates = [
   },
   {
     name: 'Google Analytics for Beginners',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Google-Analytics-for-Beginners-Course_Certificate_Yanina_Trekhleb.jpg',
     img: require('../images/certificates-img/Google-Analytics-for-Beginners-Course_Certificate_Yanina_Trekhleb.jpg'),
     date: 'Mar 2021 - Mar 2021',
     tags: [
@@ -51,17 +51,7 @@ export const certificates = [
   },
   {
     name: 'Learn Vue.js Course',
-    url: '',
-    img: require('../images/certificates-img/Learn-Vue.js-Course.jpg'),
-    date: 'Jul 2020 - Aug 2020',
-    tags: [
-      { name: 'vue.js' },
-      { name: 'javascript' },
-    ],
-  },
-  {
-    name: 'Learn Vue.js Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Learn-Vue.js-Course.jpg',
     img: require('../images/certificates-img/Learn-Vue.js-Course.jpg'),
     date: 'Jul 2020 - Aug 2020',
     tags: [
@@ -71,7 +61,7 @@ export const certificates = [
   },
   {
     name: 'Learn SQL Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Learn-SQL-Course.jpg',
     img: require('../images/certificates-img/Learn-SQL-Course.jpg'),
     date: 'Jul 2020 - Jul 2020',
     tags: [
@@ -81,7 +71,7 @@ export const certificates = [
   },
   {
     name: 'Learn JavaScript Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Learn-JavaScript-Course-Codecademy.jpg',
     img: require('../images/certificates-img/Learn-JavaScript-Course-Codecademy.jpg'),
     date: 'Jun 2020 - Jul 2020',
     tags: [
@@ -91,7 +81,7 @@ export const certificates = [
   },
   {
     name: 'Learn React.js: Part I Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Learn-React.js-Part-I-Codecademy-react.jpg',
     img: require('../images/certificates-img/Learn-React.js-Part-I-Codecademy-react.jpg'),
     date: 'Jun 2020 - Jul 2020',
     tags: [
@@ -102,7 +92,7 @@ export const certificates = [
   },
   {
     name: 'Building Interactive JavaScript Websites Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Building-Interactive-JavaScript-Websites-codecademy.jpg',
     img: require('../images/certificates-img/Building-Interactive-JavaScript-Websites-codecademy.jpg'),
     date: 'Jan 2019 - Feb 2020',
     tags: [
@@ -112,7 +102,7 @@ export const certificates = [
   },
   {
     name: 'Learn CSS Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/learn-css-codecademy.jpg',
     img: require('../images/certificates-img/learn-css-codecademy.jpg'),
     date: 'Dec 2018 - Jan 2019',
     tags: [
@@ -121,7 +111,7 @@ export const certificates = [
   },
   {
     name: 'Learn Responsive Design Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Learn-Responsive-Design-Course-Codecademy-responsive.jpg',
     img: require('../images/certificates-img/Learn-Responsive-Design-Course-Codecademy-responsive.jpg'),
     date: 'Dec 2018 - Jan 2019',
     tags: [
@@ -132,7 +122,7 @@ export const certificates = [
   },
   {
     name: 'Responsive Web Design',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Responsive-Web%20Design-Coursera-2018.jpg',
     img: require('../images/certificates-img/Responsive-Web Design-Coursera-2018.jpg'),
     date: 'Sep 2018 - Oct 2018',
     tags: [
@@ -143,7 +133,7 @@ export const certificates = [
   },
   {
     name: 'Responsive Website Basics: Code with HTML, CSS, and JavaScript',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Responsive-Website-Coursera-2018.jpg',
     img: require('../images/certificates-img/Responsive-Website-Coursera-2018.jpg'),
     date: 'Sep 2018 - Oct 2018',
     tags: [
@@ -153,7 +143,7 @@ export const certificates = [
   },
   {
     name: 'HTML 5 App Development Fundamentals',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/softserve-basic-frontend-course-y-trekhleb.png',
     img: require('../images/certificates-img/softserve-basic-frontend-course-y-trekhleb.png'),
     date: 'Feb 2018 - Mar 2018',
     tags: [
@@ -163,7 +153,7 @@ export const certificates = [
   },
   {
     name: 'How to Make a Website with NameCheap Course',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/How-to-Make-a-Website-with-NameCheap-Course-Codecademy.jpg',
     img: require('../images/certificates-img/How-to-Make-a-Website-with-NameCheap-Course-Codecademy.jpg'),
     date: 'Jan 2018 - Feb 2018',
     tags: [
