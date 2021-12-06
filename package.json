@@ -43,8 +43,5 @@
     "last 2 versions",
     "not dead"
   ],
-  "homepage": "https://yaninatrekhleb.github.io/portfolio/",
-  "vue": {
-    "publicPath": "/portfolio/"
-  }
+  "homepage": "https://yaninatrekhleb.github.io/portfolio/"
 }
