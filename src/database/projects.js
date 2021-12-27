@@ -1,5 +1,16 @@
 export const projects = [
   {
+    name: 'Food Menu',
+    url: 'https://yaninatrekhleb.github.io/food-menu/',
+    img: require('../images/projects-img/food-menu.png'),
+    date: 'Dec 2021 - Dec 2021',
+    tags: [
+      { name: 'react.js' },
+      { name: 'javascript' },
+      { name: 'html/css' },
+    ],
+  },
+  {
     name: 'Animated Banner',
     url: 'https://yaninatrekhleb.github.io/animated-banner-bootstrap/',
     img: require('../images/projects-img/tulip-banner.png'),
@@ -62,7 +73,7 @@ export const projects = [
     img: require('../images/projects-img/to-do-list-react.png'),
     date: 'Apr 2020 - May 2020',
     tags: [
-      { name: 'react' },
+      { name: 'react.js' },
       { name: 'html/css' },
       { name: 'javascript' },
     ],
@@ -73,7 +84,7 @@ export const projects = [
     img: require('../images/projects-img/quarantine-react.png'),
     date: 'Apr 2020 - Apr 2020',
     tags: [
-      { name: 'react' },
+      { name: 'react.js' },
       { name: 'javascript' },
       { name: 'html/css' },
     ],
