@@ -1,5 +1,15 @@
 export const certificates = [
   {
+    name: 'Customer Analytics and A/B Testing in Python',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/a-b-testing-data-camp.jpg',
+    img: require('../images/certificates-img/Google-Data-Part1-Foundations-Data-Data-Everywhere.jpg'),
+    date: 'Oct 2021 - Oct 2021',
+    tags: [
+      { name: 'python' },
+      { name: 'a/b testing' },
+    ],
+  },
+  {
     name: 'Foundations: Data, Data, Everywhere',
     url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/Google-Data-Part1-Foundations-Data-Data-Everywhere.jpg',
     img: require('../images/certificates-img/Google-Data-Part1-Foundations-Data-Data-Everywhere.jpg'),

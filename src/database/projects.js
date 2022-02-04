@@ -1,5 +1,16 @@
 export const projects = [
   {
+    name: 'Birthday Reminder',
+    url: 'https://yaninatrekhleb.github.io/birthday-reminder-react/',
+    img: require('../images/projects-img/birthday-reminder-react.png'),
+    date: 'Feb 2022 - Feb 2022',
+    tags: [
+      { name: 'react.js' },
+      { name: 'javascript' },
+      { name: 'html/css' },
+    ],
+  },
+  {
     name: 'Food Menu',
     url: 'https://yaninatrekhleb.github.io/food-menu/',
     img: require('../images/projects-img/food-menu.png'),
