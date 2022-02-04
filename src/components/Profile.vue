@@ -49,6 +49,11 @@
           >
             vue.js
           </span>
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
+            react.js
+          </span>
         </div>
         <div
           class="contact-links flex flex-row justify-center w-full sm:justify-start"
