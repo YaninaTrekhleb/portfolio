@@ -62,6 +62,9 @@
           <a href="https://www.instagram.com/yanina_trekhleb/" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/instagram-logo.png" alt="instagram-logo">
           </a>
+          <a href="https://www.youtube.com/c/HomefullofrecipesCookingchannel" target="_blank" class="mr-2 w-8">
+            <img src="../images/logo/youtube-logo.png" alt="youtube-logo">
+          </a>
           <a href="https://www.pinterest.com/yanisavchenko/_created/" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/pinterest-logo.png" alt="pinterest-logo">
           </a>
