@@ -1,4 +1,15 @@
 export const projects = [
+   {
+    name: 'Test assignment for Media.Monks company interview',
+    url: '',
+    img: require('../images/projects-img/media-monks-test-assigment.png'),
+    date: 'Feb 2022 - Feb 2022',
+    tags: [
+      { name: 'javascript' },
+      { name: 'dom' },
+      { name: 'html/css' },
+    ],
+  },
   {
     name: 'Birthday Reminder',
     url: 'https://yaninatrekhleb.github.io/birthday-reminder-react/',
