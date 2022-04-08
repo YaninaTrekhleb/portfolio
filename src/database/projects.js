@@ -1,9 +1,20 @@
 export const projects = [
+  {
+    name: 'How can I help Ukraine?' ,
+    url: 'https://yaninatrekhleb.github.io/standWithUkraine/',
+    img: require('../images/projects-img/stand-with-Ukraine-img.png'),
+    date: 'Mar 2022 - Mar 2022',
+    tags: [
+      { name: 'jQuery' },
+      { name: 'javascript' },
+      { name: 'html/css' },
+    ],
+  },
    {
     name: 'Test assignment for Media.Monks company interview',
     url: '',
     img: require('../images/projects-img/media-monks-test-assigment.png'),
-    date: 'Feb 2022 - Feb 2022',
+    date: 'Feb 2022 - Mar 2022',
     tags: [
       { name: 'javascript' },
       { name: 'dom' },
