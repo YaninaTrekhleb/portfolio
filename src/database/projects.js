@@ -12,7 +12,7 @@ export const projects = [
   },
    {
     name: 'Test assignment for Media.Monks company interview',
-    url: '',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/projects-img/media-monks-desktop.gif',
     img: require('../images/projects-img/media-monks-test-assigment.png'),
     date: 'Feb 2022 - Mar 2022',
     tags: [
