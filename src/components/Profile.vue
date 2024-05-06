@@ -47,12 +47,12 @@
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            vue.js
+            outlook mso code
           </span>
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            react.js
+            sql
           </span>
         </div>
         <div
@@ -85,7 +85,7 @@
     data () {
       return {
       fullName: 'Yanina Trekhleb',
-      position: 'Junior Frontend Developer',
+      position: '📧 Campaign Developer',
       location: 'Amsterdam, The Netherlands'
       }
     }
