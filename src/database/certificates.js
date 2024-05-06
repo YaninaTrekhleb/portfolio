@@ -1,5 +1,16 @@
 export const certificates = [
   {
+    name: 'Selligent Marketing Cloud - Base',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/selligent_base.png',
+    img: require('../images/certificates-img/selligent_base.png'),
+    date: 'Sep 2022 - Sep 2022',
+    tags: [
+      { name: 'selligent' },
+      { name: 'marketing automation tool' },
+      { name: 'omnichannel marketing platform' },
+    ],
+  },
+  {
     name: 'Customer Analytics and A/B Testing in Python',
     url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/a-b-testing-data-camp.jpg',
     img: require('../images/certificates-img/a-b-testing-data-camp.jpg'),

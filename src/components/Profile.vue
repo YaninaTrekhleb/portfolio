@@ -21,7 +21,7 @@
         <p 
           class="mb-3 text-lg"
         >
-          <span>&#128187; </span>{{ position }}
+          <span>&#x1F4E7; </span>{{ position }}
         </p>
         <p
           class="mb-3 text-base"
@@ -64,14 +64,14 @@
           <a href="https://github.com/YaninaTrekhleb" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/github-logo-icon.png" alt="github-logo">
           </a>
-          <a href="https://www.instagram.com/yanina_trekhleb/" target="_blank" class="mr-2 w-8">
+          <a href="https://www.instagram.com/home_full_of_recipes/" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/instagram-logo.png" alt="instagram-logo">
           </a>
           <a href="https://www.youtube.com/c/HomefullofrecipesCookingchannel" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/youtube-logo.png" alt="youtube-logo">
           </a>
-          <a href="https://www.pinterest.com/yanisavchenko/_created/" target="_blank" class="mr-2 w-8">
-            <img src="../images/logo/pinterest-logo.png" alt="pinterest-logo">
+          <a href="https://www.udemy.com/course/ukrainian-cooking-authentic-ukrainian-recipes-course/" target="_blank" class="mr-2 w-8">
+            <img src="../images/logo/udemy-logo.png" alt="udemy-logo">
           </a>
         </div>
       </div>
@@ -85,7 +85,7 @@
     data () {
       return {
       fullName: 'Yanina Trekhleb',
-      position: '📧 Campaign Developer',
+      position: 'Campaign Developer',
       location: 'Amsterdam, The Netherlands'
       }
     }
