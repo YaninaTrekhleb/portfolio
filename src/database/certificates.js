@@ -1,5 +1,16 @@
 export const certificates = [
   {
+    name: 'Digital Marketer Walkthrough',
+    url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/marigold_digital_marketer_walkthrough_yanina_trekhleb.png',
+    img: require('../images/certificates-img/marigold_digital_marketer_walkthrough_yanina_trekhleb.png'),
+    date: 'May 2024 - May 2024',
+    tags: [
+      { name: 'engage' },
+      { name: 'marketing automation tool' },
+      { name: 'omnichannel marketing platform' },
+    ],
+  },
+  {
     name: 'Selligent Marketing Cloud - Base',
     url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/selligent_base.png',
     img: require('../images/certificates-img/selligent_base.png'),
