@@ -11,3 +11,8 @@ To run the app in development mode:
 ```sh
 npm run serve
 ```
+
+To deploy
+```sh
+npm run deploy
+```
