@@ -10,19 +10,19 @@
     "predeploy": "yarn build"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vue-router": "^3.4.9"
+    "core-js": "3.38.1",
+    "vue": "3.4.38",
+    "vue-router": "4.4.3"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-plugin-eslint": "5.0.8",
+    "@vue/cli-service": "5.0.8",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "gh-pages": "^3.1.0",
-    "vue-template-compiler": "^2.6.11"
+    "eslint": "7.5.0",
+    "eslint-plugin-vue": "9.27.0",
+    "gh-pages": "6.1.1",
+    "vue-template-compiler": "2.7.16"
   },
   "eslintConfig": {
     "root": true,
@@ -36,7 +36,10 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "vue/no-reserved-component-names": "off",
+      "vue/multi-word-component-names": "off"
+    }
   },
   "browserslist": [
     "> 1%",

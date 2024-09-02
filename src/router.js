@@ -1,10 +1,7 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import Profile from './components/Profile.vue'
 import Projects from './components/Projects.vue'
 import Certificates from './components/Certificates.vue'
-
-Vue.use(VueRouter)
 
 const routes = [
   {
@@ -25,9 +22,9 @@ const routes = [
 
 ]
 
-const router = new VueRouter({
-  // mode: 'history',
-  base: process.env.BASE_URL,
+const router = createRouter({
+  history: createWebHistory(process.env.BASE_URL),
+  // base: process.env.BASE_URL,
   routes
 })
 
