@@ -1,5 +1,16 @@
 export const projects = [
   {
+    name: '30-Day Email Template Series' ,
+    url: 'https://yaninatrekhleb.github.io/30days_of_Emails/',
+    img: require('../images/projects-img/30-Day_Email_Template_Series.png'),
+    date: 'Sep 2024 - Oct 2024',
+    tags: [
+      { name: 'html/css' },
+      { name: 'email design' },
+      { name: 'email marketing' },
+    ],
+  },
+  {
     name: 'How can I help Ukraine?' ,
     url: 'https://yaninatrekhleb.github.io/standWithUkraine/',
     img: require('../images/projects-img/stand-with-Ukraine-img.png'),

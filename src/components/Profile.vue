@@ -47,12 +47,24 @@
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
+            sql
+          </span>
+        </div>
+        <div class="skills mb-3">
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
             outlook mso code
           </span>
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            sql
+            marketing automation
+          </span>
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
+            UI email design
           </span>
         </div>
         <div
