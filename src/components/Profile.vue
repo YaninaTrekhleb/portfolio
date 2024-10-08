@@ -64,7 +64,7 @@
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            UI email design
+            ui email design
           </span>
         </div>
         <div
