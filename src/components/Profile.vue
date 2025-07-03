@@ -76,10 +76,10 @@
           <a href="https://github.com/YaninaTrekhleb" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/github-logo-icon.png" alt="github-logo">
           </a>
-          <a href="https://www.instagram.com/home_full_of_recipes/" target="_blank" class="mr-2 w-8">
+          <a href="https://www.instagram.com/yaninaskitchen/" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/instagram-logo.png" alt="instagram-logo">
           </a>
-          <a href="https://www.youtube.com/c/HomefullofrecipesCookingchannel" target="_blank" class="mr-2 w-8">
+          <a href="https://www.youtube.com/@yaninaskitchen" target="_blank" class="mr-2 w-8">
             <img src="../images/logo/youtube-logo.png" alt="youtube-logo">
           </a>
           <a href="https://www.udemy.com/course/ukrainian-cooking-authentic-ukrainian-recipes-course/" target="_blank" class="mr-2 w-8">
