@@ -1,4 +1,17 @@
 export const certificates = [
+    {
+    name: 'Foundations of Digital Marketing and E-commerce',
+    url: 'https://www.coursera.org/account/accomplishments/verify/74Y7H9TXNE7O',
+    img: require('../images/certificates-img/Foundations-ofDigital-Marketing-and-Ecommerce-yanina-trekhleb.png'),
+    date: 'Apr 2025 - Apr 2025',
+    tags: [
+      { name: 'digital marketing' },
+      { name: 'e-commerce' },
+      { name: 'email marketing' },
+      { name: 'content performance analysis' },
+      { name: 'customer engagement' },
+    ],
+  },
   {
     name: 'Selligent Marketing Cloud - Base',
     url: 'https://github.com/YaninaTrekhleb/portfolio/blob/main/src/images/certificates-img/selligent_certificate_2024.png',

@@ -1,0 +1,38 @@
+export const creatives = [
+  {
+    name: 'Yanina’s Kitchen (YouTube, Instagram, TikTok, Pinterest, Facebook)',
+    url: 'https://www.youtube.com/@yaninaskitchen',
+    img: require('../images/creative-img/yaninas-kitchen-youtube.png'),
+    date: 'Since 2018',
+    summary: 'A cozy cooking channel sharing easy breakfast ideas, Ukrainian comfort food, and homestyle recipes that bring warmth to everyday life. I create, film, and edit all videos, manage community engagement, and design visuals for each platform. With a growing audience across social media, I blend storytelling, videography, and food styling to inspire home cooking.',
+    skills: 'Content Creation, Content Strategy, Video Production, Food Styling, Copywriting, SEO Optimization, Cross-Platform Marketing',
+    tools: 'Filmora, Canva, YouTube Studio, Instagram, Facebook, TikTok, Pinterest, CapCut, InShot',
+  },
+  {
+    name: 'ArtFrame Moments (4K Ambience & Screensaver YouTube Channel)',
+    url: 'https://www.youtube.com/@ArtFrame_Moments',
+    img: require('../images/creative-img/art-frame-moments-ambience.png'),
+    date: 'Since 2024',
+    summary: 'A visual and auditory experience combining nature, seasons, and serenity through 4K ambience and screensaver videos. Each scene is thoughtfully designed to bring calm, beauty, and inspiration into everyday spaces — from cozy fireplaces to peaceful Christmas settings. I create and edit all videos, curate soundscapes, design visuals, and manage publishing across YouTube, blending art direction with storytelling to craft immersive moods.',
+    skills: 'Video Editing, Sound Design, Visual Storytelling, Branding, AI Content Generation, Creative Direction',
+    tools: 'Filmora, Canva, Pika Labs, Runway, DALL·E, YouTube Studio',
+  },
+  {
+    name: 'Breakfast for the Corporate Hustle (Recipes E-Book, Kindle Edition)',
+    url: 'https://www.amazon.com/dp/B0FKTQZ874',
+    img: require('../images/creative-img/recipes-ebook-yaninas-kitchen.png'),
+    date: 'Mar 2025 - May 2025',
+    summary: 'A digital cookbook featuring quick, comforting breakfast recipes designed for busy mornings. The book blends wholesome ingredients with cozy flavors, offering a mix of savory and sweet dishes that can be made in under 20 minutes. I created, cooked, photographed, and designed all recipes, focusing on balance, simplicity, and visual storytelling that fit modern lifestyles.',
+    skills: 'Writing, Recipe Development, Cooking, Food Photography, Visual Design, Content Strategy',
+    tools: 'Canva, Lightroom, Amazon KDP, Notion',
+  },
+  {
+    name: 'Ukrainian Cooking Course (Udemy)',
+    url: 'https://www.udemy.com/course/ukrainian-cooking-authentic-ukrainian-recipes-course/',
+    img: require('../images/creative-img/ukrainian-recipes-udemy-yaninas-kitchen.png'),
+    date: 'Mar 2021 - Oct 2021',
+    summary: 'A full online course teaching traditional Ukrainian recipes — from Borscht to Chicken Kyiv. I created, filmed, and edited all lessons, wrote scripts, and designed visuals. The course has 160+ students and a 4.8★ rating.',
+    skills: 'Content Creation, Video Editing, Script Writing, Branding, Course Design',
+    tools: 'Filmora, Canva, Udemy',
+  },
+]

@@ -8,7 +8,7 @@
       <div class="avatar mr-6 mb-6 sm:mb-0">
         <img 
           class="rounded-full h-64 w-64"
-          src="../images/avatar-image.jpg" 
+          src="../images/avatar-image.png" 
           alt="avatar-image"
         >
       </div>
@@ -49,22 +49,37 @@
           >
             sql
           </span>
-        </div>
-        <div class="skills mb-3">
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            outlook mso code
+            email development
           </span>
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
             marketing automation
           </span>
+        </div>
+        <div class="skills mb-3">
           <span 
             class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
           >
-            ui email design
+           content creation
+          </span>
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
+           visual storytelling 
+          </span>
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
+            photo & video editing
+          </span>
+          <span 
+            class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-sm font-normal mr-2 mb-2 last:mr-0"
+          >
+            cross-social media management
           </span>
         </div>
         <div
@@ -97,8 +112,8 @@
     data () {
       return {
       fullName: 'Yanina Trekhleb',
-      position: 'Campaign Developer',
-      location: 'Amsterdam, The Netherlands'
+      position: 'Marketing Automation & CRM Specialist | 🎥 Content Creator',
+      location: 'Bay Area, California'
       }
     }
   }
