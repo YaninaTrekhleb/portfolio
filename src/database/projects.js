@@ -1,5 +1,29 @@
 export const projects = [
   {
+    name: 'Motivation Station - Daily Quotes' ,
+    url: 'https://yaninatrekhleb.github.io/motivation-station/',
+    img: require('../images/projects-img/motivation-station-preview.png'),
+    date: 'Feb 2026 - Feb 2026',
+    tags: [
+      { name: 'javascript' },
+      { name: 'api' },
+      { name: 'claude code' },
+      { name: 'AI Engineering' },
+    ],
+  },
+    {
+    name: 'Flour Hour - Sourdough Scheduler' ,
+    url: 'https://yaninatrekhleb.github.io/flour-hour/',
+    img: require('../images/projects-img/flour-hour-preview.png'),
+    date: 'Jan 2026 - Jan 2026',
+    tags: [
+      { name: 'react' },
+      { name: 'vite' },
+      { name: 'claude code' },
+      { name: 'AI Engineering' },
+    ],
+  },
+  {
     name: '30-Day Email Template Series' ,
     url: 'https://yaninatrekhleb.github.io/30days_of_Emails/',
     img: require('../images/projects-img/30-Day_Email_Template_Series.png'),
